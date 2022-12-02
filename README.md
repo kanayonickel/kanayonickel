@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanayonickel
 - 👀 I’m interested in Web interfaces, UI/UX and mobile application development
-- 🌱 I’m currently learning flutter and Nodejs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working flutter, Reactjs and Nodejs
+- 💞️ I’m looking to collaborate on any frontend project
 - 📫 How to reach me : godwinkamagco@gmail.com and aloysiuspendergast@protonmail.com
 
 <!---
